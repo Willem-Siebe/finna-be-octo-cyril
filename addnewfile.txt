@@ -1,0 +1,2 @@
+test change without staging
+test see difference after staging with git diff
